@@ -1,8 +1,8 @@
 ###  Ola Humanobem vindo ao meu universo!!!
 <div align="center">
   <a href="https://github.com/Igorrochalord">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igorrochalord&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrochalord&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrochalord&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrochalord&layout&show=compact&langs_count=7&theme=dark"/>
 </div>
 
 - 🔭 estou procurando emprego mas so para nao ser expulso de casa eu falo que sou caçador de marcianos 
