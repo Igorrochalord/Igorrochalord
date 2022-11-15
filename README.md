@@ -17,8 +17,7 @@
   <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  alt="this slowpoke moves" src="http://i.stack.imgur.com/SBv4T.gif" />
-  <imf align="left" alt= "star"  src="https://media.tenor.com/nXQOiFYcCjQAAAAC/star-trek-agree.gif" 
+  <img align="right"  alt="this slowpoke moves" src="http://i.stack.imgur.com/SBv4T.gif" /
 </div>
   
   ##
