@@ -12,11 +12,11 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[controlestoq](https://github.com/Igorrochalord/estoquelord)**
-- 🌱 I’m currently learning **Java and Terraform**
-- 💬 Ask me about **Python, MySQL, and DevOps**
-- 📫 Reach me at **igorestagios@gmail.com**
-- ⚡ Fun fact: **I created a website in a remote region in Alaska**
+- 🔭 I’m currently working with **Big Data solutions**.
+- 🌱 I’m currently learning **Node.js** to expand my back-end development skills.
+- 💬 Ask me about **Python, MySQL, and DevOps**.
+- 📫 Reach me at **igorestagios@gmail.com**.
+- ⚡ Fun fact: **I created a website in a remote region in Alaska**.
 
 ---
 
@@ -73,4 +73,3 @@
 ---
 
 🌟 **"Keep coding and making the world a better place, one commit at a time!"**
-
