@@ -1,4 +1,3 @@
-[![MasterHead](https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)](https://github.com/Igorrochalord)
 
 <h1 align="center">Hi 👋, I'm Igor Rocha</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
