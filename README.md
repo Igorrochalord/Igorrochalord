@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Rocha</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e4791elwh4uz99mfair46bxeajj0dsbayo8mecftshf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=igorrochalord&label=Profile%20views&color=0e75b6&style=flat" alt="igorrochalord" /> 
 </p>
