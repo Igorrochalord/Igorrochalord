@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Igor Rocha</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
@@ -11,10 +10,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working with **Big Data solutions**.
+- 🔯 I’m currently working with **Big Data solutions**.
 - 🌱 I’m currently learning **Node.js** to expand my back-end development skills.
 - 💬 Ask me about **Python, MySQL, and DevOps**.
-- 📫 Reach me at **igorestagios@gmail.com**.
+- 👯 Reach me at **igorestagios@gmail.com**.
 - ⚡ Fun fact: **I created a website in a remote region in Alaska**.
 
 ---
