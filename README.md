@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🔯 I’m currently working with **Big Data solutions**.
-- 🌱 I’m currently learning **Node.js** to expand my back-end development skills.
-- 💬 Ask me about **Python, MySQL, and DevOps**.
+- 🔯 I’m currently working with **Big Data solutions and Bots**.
+- 🌱 I’m currently learning **Node.js** **GCP/AWS** to expand my back-end development skills.
+- 💬 Ask me about **Python, Datanalyst and DevOps**.
 - 👯 Reach me at **igorestagios@gmail.com**.
 - ⚡ Fun fact: **I created a website in a remote region in Alaska**.
 
@@ -60,11 +60,6 @@
 </p>
 
 ---
-
-## 🐍 Snake Game
-<p align="center">
-  <img src="https://github.com/Igorrochalord/Igorrochalord/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
