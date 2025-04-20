@@ -34,9 +34,16 @@ PHP/Laravel | Node.js | REST APIs | System Architecture
 
 ### **Poder360** - Cloud Solutions Engineer  
 `Jul 2023 - Present` | Brasília, Brazil  
+
+- Docker, Git, Bitbucket, Python, GCP, MongoDB, google analytics, AWS
 - Led infrastructure modernization using Docker and Terraform
 - Developed Python bots ecosystem handling 200K+ daily transactions
-- Reduced cloud costs by 30% through AWS/GCP optimization
+- scraper in major government agencies
+- implementation and dockerization of systems
+- infrastructure solutions
+- creations and practical solutions
+- I was assigned to work with the senior development team to apply updates and upgrade
+all English translations
 - Mentored junior developers in cloud best practices
 
 ### **Demander** - Backend Systems Engineer  
