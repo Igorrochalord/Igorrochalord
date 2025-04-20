@@ -1,44 +1,83 @@
-<h1 align="center">Hello World 👋 I'm Igor Rocha</h1>
-<h3 align="center">Fullstack Developer | Data Enthusiast</h3>
+<div align="center">
+  <h1>Igor Rocha</h1>
+  <h3>Cloud Solutions Engineer | Data Automation Specialist</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/igor-rocha-0bb14521a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:igorestagios@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://github.com/igorrochalord">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+  </p>
+</div>
 
 ---
 
-### 💡 Profile Overview
-
-- **Current Focus:** Building scalable Big Data solutions and intelligent automation systems
-- **Tech Stack:** Python · Node.js · Cloud Platforms (GCP/AWS) · Data Analytics
-- **Learning Path:** Advanced Cloud Architectures · Distributed Systems
-- **Contact:** [Email](mailto:igorestagios@gmail.com) · [LinkedIn](https://www.linkedin.com/in/igor-rocha-0bb14521a/)
-
----
-
-### 🛠 Core Competencies
+## 🛠 Technical Expertise
 
 **Cloud & DevOps**  
-AWS · GCP · Docker · CI/CD Pipelines
+AWS | GCP | Docker | Terraform | CI/CD Pipelines
 
-**Data Ecosystem**  
-Python (Pandas, NumPy) · Apache Hadoop · MySQL · Data Visualization
+**Data Engineering**  
+Python | Big Data | Web Scraping | MongoDB | SQL
 
-**Web Development**  
-Node.js · CSS3 · REST APIs · System Design
+**Fullstack Development**  
+PHP/Laravel | Node.js | REST APIs | System Architecture
 
 ---
 
-### 📈 Development Activity
+## 💼 Professional Experience
+
+### **Poder360** - Cloud Solutions Engineer  
+`Jul 2023 - Present` | Brasília, Brazil  
+- Led infrastructure modernization using Docker and Terraform
+- Developed Python bots ecosystem handling 200K+ daily transactions
+- Reduced cloud costs by 30% through AWS/GCP optimization
+- Mentored junior developers in cloud best practices
+
+### **Demander** - Backend Systems Engineer  
+`Dec 2022 - Apr 2023` | Lajeado, Brazil  
+- Containerized legacy PHP/Laravel applications
+- Implemented GitLab CI/CD pipelines reducing deployment time by 75%
+- Applied critical security patches across codebase
+
+### **Portela** - Data Automation Specialist  
+`Feb 2022 - Jun 2022` | Brasília, Brazil  
+- Built financial market analysis system with Python/Jupyter
+- Improved inventory turnover metrics by 40%
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Sc. Systems Analysis**  
+`Estácio de Sá University | 2022-2024`
+
+**Certifications**  
+- AWS Cloud Practitioner
+- Docker Certified Associate
+- Python Data Science Specialist
+- SQL Performance Optimization
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrochalord&show_icons=true&theme=nightowl&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorrochalord&layout=compact&theme=nightowl&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igorrochalord&show_icons=true&theme=dark">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrochalord&layout=compact&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorrochalord&theme=dark">
 </p>
 
 ---
 
-### 🚨 Pro Tip
-> "Complex systems start with simple components - focus on creating quality atomic elements before architecting galaxies."
-
----
-
-### 🌐 Connect Strategically
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/igor-rocha-0bb14521a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github)](https://github.com/igorrochalord)
+<div align="center">
+  <i>"Transforming complex challenges into scalable solutions through code and cloud architecture"</i>
+</div>
