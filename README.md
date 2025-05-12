@@ -32,7 +32,7 @@ PHP/Laravel | Node.js | REST APIs | System Architecture
 
 ## 💼 Professional Experience
 
-### **Poder360** - Cloud Solutions Engineer  
+### **Poder360** -  Backend Systems Engineer 
 `Jul 2023 - Present` | Brasília, Brazil  
 
 - Docker, Git, Bitbucket, Python, GCP, MongoDB, google analytics, AWS
