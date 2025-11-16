@@ -95,23 +95,25 @@ I am a passionate Cloud Solutions Engineer and Data Automation Specialist with a
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/igorrochalord">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorrochalord&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrochalord&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+
+![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorrochalord&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorrochalord&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorrochalord&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/igorrochalord">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorrochalord&theme=radical" />
-  </a>
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igorrochalord&theme=radical&hide_border=true&area=true)
+
 </div>
 
 ---
-
 ## 🎓 Education & Certifications
 
 ### 🏫 **Estácio de Sá University**
