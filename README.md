@@ -124,7 +124,12 @@ I am a passionate Cloud Solutions Engineer and Data Automation Specialist with a
 - Docker Certified Associate
 - Python Data Science Specialist
 - SQL Performance Optimization
-
+- AWS IaC com Terraform (Udemy)
+- AI Applications with Cloud Run (Google)
+- Docker Avançado (Udemy)
+- Python Completo (Udemy)
+- Terraform - Do básico ao Avançado (Udemy)
+- Python Básico ao Avançado + RPA + Criação de Projetos Reais(Udemy)
 ---
 
 ## 📈 Recent Projects
