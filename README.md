@@ -33,7 +33,7 @@ Atualmente atuo no **desenvolvimento de soluções DevOps na Magalu Cloud (MGC)*
 
 - 🔭 **Atual:** Backend Systems Engineer & DevOps Specialist na **[Poder360](https://poder360.com.br)**
 - ☁️ **Especialização:** Magalu Cloud (MGC), AWS, GCP, Docker, Terraform, Kubernetes
-- 🐍 **Stack Principal:** Python, PHP/Laravel, Node.js, Web Scraping em larga escala
+- 🐍 **Stack Principal:** Python,Node.js, Web Scraping em larga escala
 - 📊 **Foco:** Sistemas de alta concorrência, dados em tempo real, automação inteligente
 - 🎯 **Metodologia:** Data-driven decisions, arquiteturas escaláveis, DX (Developer Experience)
 
@@ -56,8 +56,6 @@ Atualmente atuo no **desenvolvimento de soluções DevOps na Magalu Cloud (MGC)*
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Linguagens & Frameworks</b>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1a1a)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=1a1a1a)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
 
