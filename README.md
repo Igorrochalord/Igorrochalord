@@ -3,7 +3,7 @@
 **Mid-level Backend & DevOps Developer**  
 Python · Docker · Terraform · AWS · GCP · Magalu Cloud
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-rocha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rocha-0bb14521a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:igorprofessionaljob@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/igorrochalord?style=flat-square&color=555)](https://github.com/igorrochalord)
 
@@ -99,11 +99,11 @@ Currently at **[Poder360](https://poder360.com.br)** — one of Brazil's leading
 
 ## Projects
 
-### [BotEconomy](https://github.com/igorrochalord)
+### [BotEconomy](https://github.com/igorrochalord/boteconomy)
 Telegram bot for real-time financial market analysis.  
 `Python` `Pandas` `Matplotlib` `Docker` — Automated alerts, interactive charts, PDF reports.
 
-### [Document Manager](https://github.com/igorrochalord)
+### [Document Manager](https://github.com/igorrochalord/document-manager)
 Full-stack web app with authentication and secure document storage.  
 `Flask` `MongoDB` `Docker Compose` — Containerized architecture, role-based access.
 
@@ -119,9 +119,24 @@ Full-stack web app with authentication and secure document storage.
 
 ## GitHub Stats
 
+<!--
+  Rendered from the public github-readme-stats instance, which is frequently
+  rate-limited by the GitHub API.
+
+  To make these cards reliable AND enable private-repo counts:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Import the fork into Vercel
+    3. Add env var PAT_1 = <classic GitHub token, scopes: repo + read:user, no expiry>
+    4. Replace `github-readme-stats.vercel.app` below with your own Vercel domain
+    5. Re-add `&count_private=true&include_all_commits=true` (they only work on
+       your own instance — the public token cannot see private repos)
+
+  Health check on your instance: https://<your-domain>/api/status/pat-info
+-->
+
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorrochalord&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrochalord&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img height="160em" alt="Igor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=igorrochalord&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="160em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorrochalord&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=86400" />
 </p>
 
 ---
